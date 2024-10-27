@@ -69,3 +69,7 @@ url = "publications/"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+# Custom CSS to change fonts
+[params]
+customCSS = ["/css/custom.css"]
