@@ -1,0 +1,40 @@
+<!-- Custom Analytics Events -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Make sure gtag is available
+    if (typeof gtag === 'function') {
+        // Track Academic Profile Clicks
+        const profileLinks = {
+            'google_scholar': 'citations?user=G3o05zgAAAAJ',  // Specific to your profile
+            'orcid': '0000-0003-1080-4443',                  // Your ORCID
+            'linkedin': 'profgaelle',
+            'bluesky': 'profgaelle.bsky.social'
+        };
+
+        Object.entries(profileLinks).forEach(([platform, identifier]) => {
+            document.querySelectorAll(`a[href*="${identifier}"]`).forEach(link => {
+                link.addEventListener('click', function() {
+                    console.log(`Tracking ${platform} click`);  // Debug line
+                    gtag('event', 'profile_click', {
+                        'event_category': 'Academic Profiles',
+                        'event_label': platform
+                    });
+                });
+            });
+        });
+
+        // Track Email Contact
+        document.querySelectorAll('a[href*="mailto:g.vallee-tourangeau"]').forEach(link => {
+            link.addEventListener('click', function() {
+                console.log('Tracking email click');  // Debug line
+                gtag('event', 'contact', {
+                    'event_category': 'Engagement',
+                    'event_label': 'Email Contact'
+                });
+            });
+        });
+    } else {
+        console.warn('Google Analytics not loaded');  // Debug line
+    }
+});
+</script>
