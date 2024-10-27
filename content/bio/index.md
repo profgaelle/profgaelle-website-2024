@@ -23,7 +23,7 @@ The public outputs from her research includes over 60 journal articles, book cha
         </ul>
     </div>
     <div style="flex: 1;">
-        <h3>Key Qualifications</h3>
+        <h3>Qualifications</h3>
         <ul>
             <li>PhD in Psychology, 2004, University of Hertfordshire</li>
             <li>MSc in Experimental Social Psychology, 1998, Paris-Nanterre University</li>
