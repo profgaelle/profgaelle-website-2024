@@ -11,7 +11,7 @@ googleAnalytics = "G-8W2D7KLBJC"
 [params]
 author = "Gaëlle Vallée-Tourangeau"
 intro = "Professor of Behavioural Science"
-description = "Expert in behavioural science and decision-making research, specialising in how heuristics and cognitive biases influence real-world choices. Leading research in experimental psychology and choice architecture."
+description = "Expert in behavioural science and decision-making research, specialising in how heuristics and cognitive biases influence real-world choices. Leading behavioural science research to promote effective, ethical and sustainable judgment, decision-making, and creative problem-solving."
 authorimage = "headshot.png"
 customCSS = ["/css/custom.css"]
 
