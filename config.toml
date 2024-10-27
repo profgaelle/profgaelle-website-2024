@@ -1,4 +1,4 @@
-baseURL = "https://profgaelle.com/"
+baseURL = "https://wonderful-monstera-8fc9c8.netlify.app/"
 theme = "hugo-goa"
 languageCode = "en-gb"
 title = "Gaëlle Vallée-Tourangeau | Behavioural Science Research"
