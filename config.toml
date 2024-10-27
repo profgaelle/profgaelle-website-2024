@@ -13,6 +13,7 @@ author = "Gaëlle Vallée-Tourangeau"
 intro = "Professor of Behavioural Science"
 description = "Expert in behavioural science and decision-making research, specialising in how heuristics and cognitive biases influence real-world choices. Leading research in experimental psychology and choice architecture."
 authorimage = "headshot.png"
+customCSS = ["/css/custom.css"]
 
 ## Site Meta Settings
 [params.meta]
@@ -70,6 +71,3 @@ url = "publications/"
     [markup.goldmark.renderer]
       unsafe = true
 
-# Custom CSS to change fonts
-[params]
-customCSS = ["/css/custom.css"]
