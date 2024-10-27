@@ -1,0 +1,49 @@
+baseURL = "https://profgaelle.com/"
+theme = "hugo-goa"
+languageCode = "en-gb"
+title = "Prof Gaelle | Behavioural Science Research"
+enableRobotsTXT = true
+publishDir = "public"
+
+# Google Analytics
+googleAnalytics = "G-8W2D7KLBJC"
+
+[params]
+author = "Prof Gaelle"
+intro = "Behavioural Scientist"
+description = "Expert in behavioural science and decision-making research, specialising in how heuristics and cognitive biases influence real-world choices. Leading research in experimental psychology and choice architecture."
+
+## Site Meta Settings
+[params.meta]
+description = "Behavioural science researcher exploring how cognitive biases and choice architecture shape decision-making in real-world contexts. Expert in applied experimental psychology and behavioural interventions."
+keywords = "behavioural science, decision making, cognitive biases, heuristics, choice architecture, experimental psychology, behavioural interventions, applied psychology, behavioural economics, decision research"
+
+## Social Accounts
+[params.social]
+github = "profgaelle"
+linkedin = "profgaelle"
+email = "g.vallee-tourangeau@kingston.ac.uk?subject=Contact%20from%20profgaelle.com"
+
+[[params.social.custom]]
+name = "Bluesky"
+url = "https://bsky.app/profile/profgaelle.bsky.social"
+icon = "fa-cloud"
+
+[[params.social.custom]]
+name = "Google Scholar"
+url = "https://scholar.google.co.uk/citations?user=G3o05zgAAAAJ"
+icon = "fa-graduation-cap"
+
+[[params.social.custom]]
+name = "ORCID"
+url = "https://orcid.org/0000-0003-1080-4443"
+icon = "fa-orcid"
+
+## Extras
+[params.extra]
+copyright = "© 2024. [Prof Gaelle](https://profgaelle.com). [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+poweredby = true
+highlightjs = true
+
+# Date format (UK style)
+dateformat = "2 Jan 2006"
