@@ -5,9 +5,7 @@ title = 'Publications'
 toc = false
 +++
 
-Over the years, my work has spanned different topics related to human judgment and decision-making. 
-
-I began my career working on judgement heuristics and cognitive biases, and then worked on risk communication and experimental pragmatics. Later on, I became interested in creative cognition, innovation and problem-solving and also developped a programme of research on healthcare workers and vaccination.
+# Peer-reviewed research outputs
 
 ## In press
 
