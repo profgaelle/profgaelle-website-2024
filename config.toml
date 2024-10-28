@@ -32,7 +32,7 @@ bluesky = "profgaelle.bsky.social"
 ## Extras
 [params.extra]
 copyright = "© 2024. [Gaëlle Vallée-Tourangeau](https://profgaelle.com). [CC BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/4.0/)."
-poweredby = true
+poweredby = false
 highlightjs = true
 
 # Date format (UK style)
