@@ -24,10 +24,11 @@ keywords = "behavioural science, decision making, cognitive biases, heuristics, 
 [params.social]
 github = "profgaelle"
 linkedin = "profgaelle"
-email = "g.vallee-tourangeau@kingston.ac.uk?subject=Contact%20from%20profgaelle.com"
+email = "g.vallee-tourangeau@kingston.ac.uk?subject=[profgaelle.com]%20"
 googlescholar = "G3o05zgAAAAJ"
 orcid = "0000-0003-1080-4443"
 bluesky = "profgaelle.bsky.social"
+instagram = "ellea.artist"
 
 ## Extras
 [params.extra]
