@@ -1,5 +1,4 @@
 +++
-categories = ["teaching"]
 comments = false
 date = "2024-11-01"
 draft = false
