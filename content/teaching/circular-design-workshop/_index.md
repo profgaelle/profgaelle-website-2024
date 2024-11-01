@@ -53,7 +53,7 @@ This workshop incorporates materials and concepts from:
 - UK Green Building Council (UKGBC) Circular Economy Resources
 
 ### Workshop Materials
-- {{< button href="slides/circular-economy-workshop.pdf" >}}Download Workshop Slides (PDF){{< /button >}}
+{{< pdf "slides/circular-economy-workshop.pdf" >}}
 
 ### Additional Resources
 For participants wanting to dive deeper into circular design:
