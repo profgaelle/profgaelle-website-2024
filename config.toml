@@ -60,12 +60,11 @@ weight = 200
 url = "publications/"
 
 
-# [[menu.main]]
-# name = "teaching and learning"
-# identifier = "teaching"
-# weight = 300
-# url = "teaching/"
-
+[[menu.main]]
+name = "Teaching"
+identifier = "teaching"
+weight = 300
+url = "teaching/"
 
 [markup]
   [markup.goldmark]
