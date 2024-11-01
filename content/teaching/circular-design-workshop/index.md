@@ -2,8 +2,9 @@
 title = "Circular Strategies Workshop: Redesigning Products for Sustainability"
 date = "2024-11-01"
 author = "Gaëlle Vallée-Tourangeau"
-type = "teaching"
-section = "teaching"
+type = "default"
+layout = "single"
+draft = false
 +++
 
 ## Workshop Overview
@@ -51,7 +52,7 @@ This workshop incorporates materials and concepts from:
 - UK Green Building Council (UKGBC) Circular Economy Resources
 
 ### Workshop Materials
-{{< pdf "slides/circular-economy-workshop.pdf" >}}
+{{< pdf "slides/profgaelle-circular-economy-workshop.pdf" >}}
 
 ### Additional Resources
 For participants wanting to dive deeper into circular design:
