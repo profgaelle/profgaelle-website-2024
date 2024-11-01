@@ -4,6 +4,7 @@ draft = false
 slug = ""
 title = "Teaching and Learning Resources"
 description = "Collection of workshop materials and teaching resources for applied behavioural sciences"
+type = "section"
 +++
 
 Welcome to my teaching resources collection. Here you'll find materials from various workshops and courses focused on applied behavioural science.
