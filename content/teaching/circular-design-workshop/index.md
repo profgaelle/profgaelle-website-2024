@@ -2,12 +2,10 @@
 title = "Circular Strategies Workshop: Redesigning Products for Sustainability"
 date = "2024-11-01"
 author = "Gaëlle Vallée-Tourangeau"
-[[resources]]
-src = "slides/circular-economy-workshop.pdf"
-title = "Workshop Slides"
-[resources.params]
-description = "Complete slide deck for the Circular Strategies Workshop"
+type = "teaching"
+section = "teaching"
 +++
+
 ## Workshop Overview
 This hands-on workshop guides participants through an experiential journey of redesigning everyday products using circular economy principles. Through collaborative brainstorming and structured ideation, we explore how to meet user needs while creating more sustainable solutions for our planet.
 
