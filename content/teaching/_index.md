@@ -1,15 +1,14 @@
 +++
 title = "Teaching and Learning Resources"
 date = "2024-11-01"
-description = "Collection of workshop materials and teaching resources for sustainable design and circular economy"
-type = "page"
+description = "Collection of workshop materials and teaching resources for applied behavioural sciences"
 +++
 Welcome to my teaching resources collection. Here you'll find materials from various workshops and courses focused on applied behavioural science.
 
 ## Available Resources
 
 ### Workshops
-- [Circular Strategies Workshop: Redesigning Products for Sustainability]({{< ref "circular-design-workshop" >}})
+- [Circular Strategies Workshop: Redesigning Products for Sustainability]({{< ref "profgaelle-circular-economy-workshop" >}})
   *A hands-on workshop exploring circular design principles and product redesign*
 
 ### Coming Soon

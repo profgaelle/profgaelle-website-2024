@@ -1,0 +1,16 @@
+{{ define "main" }}
+<section id="main">
+    <header class="major">
+        <h1>{{ .Title }}</h1>
+        {{ if .Params.author }}
+        <div class="meta">
+            <span class="author">by {{ .Params.author }}</span>
+        </div>
+        {{ end }}
+    </header>
+
+    <div class="content">
+        {{ .Content }}
+    </div>
+</section>
+{{ end }}

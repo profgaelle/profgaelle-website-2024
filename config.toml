@@ -56,15 +56,15 @@ url = "bio/"
 [[menu.main]]
 name = "Publications"
 identifier = "publications"
-weight = 100
+weight = 200
 url = "publications/"
 
 
 # [[menu.main]]
-# name = "projects"
-# identifier = "projects"
+# name = "teaching and learning"
+# identifier = "teaching"
 # weight = 300
-# url = "projects/"
+# url = "teaching/"
 
 
 [markup]
