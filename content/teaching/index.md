@@ -14,7 +14,7 @@ Welcome to my teaching resources collection. Here you'll find materials from var
 ## Available Resources
 
 ### Workshops
-- [Circular Strategies Workshop: Redesigning Products for Sustainability]({{< ref "profgaelle-circular-economy-workshop" >}})
+- [Circular Strategies Workshop: Redesigning Products for Sustainability](circular-design-workshop/)
   *A hands-on workshop exploring circular design principles and product redesign*
 
 ### Coming Soon

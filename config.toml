@@ -71,3 +71,10 @@ url = "teaching/"
     [markup.goldmark.renderer]
       unsafe = true
 
+[outputs]
+home = ["HTML", "RSS"]
+
+[outputFormats.RSS]
+mediatype = "application/rss"
+baseName = "feed"
+
