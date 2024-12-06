@@ -14,6 +14,10 @@ Welcome to my teaching resources collection. Here you'll find materials from var
 ### Workshops
 - [Circular Strategies Workshop: Redesigning Products for Sustainability](circular-design-workshop/)
   *A hands-on workshop exploring circular design principles and product redesign*
+  
+### PhD Resources
+- [Timeline for studying towards a PhD Degree](phd-timeline)
+    *A generic timeline to help you plan your PhD studies*
 
 ### Coming Soon
 - Future workshops and resources will be added here.
