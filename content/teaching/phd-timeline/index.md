@@ -1,7 +1,7 @@
-+++
+---
 title: "Timeline for studying towards a PhD Degree in the BRAINS Lab"
 date: 2024-02-06
-+++
+---
 
 # BRAINS Lab PhD Programme Overview
 
