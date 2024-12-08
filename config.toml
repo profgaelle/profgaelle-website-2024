@@ -59,12 +59,18 @@ identifier = "publications"
 weight = 200
 url = "publications/"
 
-
 [[menu.main]]
 name = "Teaching"
 identifier = "teaching"
 weight = 300
 url = "teaching/"
+
+# Add Zettelkasten to main menu
+[[menu.main]]
+name = "Zettelkasten"
+identifier = "zettelkasten"
+weight = 400  #
+url = "zettelkasten/"
 
 [markup]
   [markup.goldmark]
@@ -77,4 +83,11 @@ home = ["HTML", "RSS"]
 [outputFormats.RSS]
 mediatype = "application/rss"
 baseName = "feed"
+
+# Add taxonomies section
+[taxonomies]
+  tag = "tags"
+  topic = "topics"
+  category = "categories"
+
 

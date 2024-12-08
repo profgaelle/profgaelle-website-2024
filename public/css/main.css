@@ -16,7 +16,7 @@ a:link {
 }
 body {
   font-family: "Roboto Slab", "Roboto", "Lato", sans-serif;
-  font-size: 20px;
+  font-size: 16px;
   font-weight: 400;
 
   width: auto;
@@ -66,7 +66,7 @@ li {
 }
 div.content {
   font-family: "Roboto", sans-serif;
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 300;
 
   color: #777;

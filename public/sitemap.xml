@@ -2,13 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/phd/</loc>
+    <lastmod>2024-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/phd-resources/</loc>
+    <lastmod>2024-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/teaching/phd-timeline/</loc>
+    <lastmod>2024-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/timeline/</loc>
+    <lastmod>2024-12-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/teaching/circular-design-workshop/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/teaching/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/teaching/</loc>
+    <loc>http://localhost:1313/categories/teaching-resources/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publications/</loc>
@@ -17,8 +38,26 @@
     <loc>http://localhost:1313/bio/</loc>
     <lastmod>2024-10-27T13:19:22+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <loc>http://localhost:1313/tags/curriculum-design/</loc>
+    <lastmod>2023-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/educational-development/</loc>
+    <lastmod>2023-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/zettelkasten/notes/202412081/</loc>
+    <lastmod>2023-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/higher-education/</loc>
+    <lastmod>2023-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/zettelkasten/notes/</loc>
+    <lastmod>2023-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/social-justice/</loc>
+    <lastmod>2023-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/zettelkasten/</loc>
+    <lastmod>2023-12-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/goatech/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
@@ -35,7 +74,8 @@
     <loc>http://localhost:1313/categories/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <loc>http://localhost:1313/topics/</loc>
+  </url><url>
+    <loc>http://localhost:1313/zettelkasten/topics/</loc>
   </url>
 </urlset>

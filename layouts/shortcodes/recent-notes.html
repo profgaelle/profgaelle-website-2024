@@ -1,0 +1,14 @@
+{{ $notes := where .Site.RegularPages "File.Dir" "zettelkasten/notes/" }}
+<ul>
+  {{ range first (.Get 0) $notes.ByDate.Reverse }}
+    <li>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      <span class="date">({{ .Date.Format "2 Jan 2006" }})</span>
+      {{ with .Params.tags }}
+        <span class="tags">
+          [{{ delimit . ", " }}]
+        </span>
+      {{ end }}
+    </li>
+  {{ end }}
+</ul>

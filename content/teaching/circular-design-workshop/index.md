@@ -5,6 +5,7 @@ author = "Gaëlle Vallée-Tourangeau"
 type = "default"
 layout = "single"
 draft = false
+categories = ["Teaching Resources"]
 +++
 ## Workshop Overview
 This interactive workshop introduces participants to circular strategies through hands-on activities. Participants will explore alternative ways to meet user needs while creating more sustainable product designs.

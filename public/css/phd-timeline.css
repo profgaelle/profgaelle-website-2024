@@ -1,0 +1,6 @@
+/* Only include if not already in your CSS */
+.timeline-container {
+  @apply max-w-4xl mx-auto p-6 space-y-8;
+}
+
+/* Add any additional custom styles needed */
