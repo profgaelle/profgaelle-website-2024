@@ -1,5 +1,5 @@
 +++
-date = '2025-03-08T16:49:54Z'
+date = '2025-03-08T17:00:54Z'
 draft = false
 title = 'Publications'
 toc = false
@@ -99,7 +99,7 @@ Sirota, M., Vallée-Tourangeau, G., Vallée-Tourangeau, F., & Juanchich, M. (201
 
 ## 2014
 
-Vallee-Tourangeau, F., & Vallée-Tourangeau, G. (2014). Diagrams, jars, and matchsticks: A systemicist's toolkit. *Pragmatics and Cognition*, 22(2), 187-205. [https://doi.org/10.1075/pc.22.2.02val](https://doi.org/10.1075/pc.22.2.02val)
+Vallée-Tourangeau, F., & Vallée-Tourangeau, G. (2014). Diagrams, jars, and matchsticks: A systemicist's toolkit. *Pragmatics and Cognition*, 22(2), 187-205. [https://doi.org/10.1075/pc.22.2.02val](https://doi.org/10.1075/pc.22.2.02val)
 
 ## 2013
 
