@@ -17,7 +17,7 @@ Wei, Q., Van der Heijden, B., & Vallée-Tourangeau, G. (2025). Development and v
 
 ## 2024
 
-Juanchich, M., Oakley, C. M., Sayer, H., Holford, D. L., Bruine de Bruin, W., Booker, C., Chadborn, T., Vallee-Tourangeau, G., Wood, R. M., & Sirota, M. (2024). Vaccination invitations sent by warm and competent medical professionals disclosing risks and benefits increase trust and booking intention and reduce inequalities between ethnic groups. *Health Psychology*, 43(10), 718-729. [https://doi.org/10.1037/hea0001385](https://doi.org/10.1037/hea0001385)
+Juanchich, M., Oakley, C. M., Sayer, H., Holford, D. L., Bruine de Bruin, W., Booker, C., Chadborn, T., Vallée-Tourangeau, G., Wood, R. M., & Sirota, M. (2024). Vaccination invitations sent by warm and competent medical professionals disclosing risks and benefits increase trust and booking intention and reduce inequalities between ethnic groups. *Health Psychology*, 43(10), 718-729. [https://doi.org/10.1037/hea0001385](https://doi.org/10.1037/hea0001385)
 
 Pavey, L., Rotella, A., & Vallée‐Tourangeau, G. (2024). Moral obligation, autonomous motivation and vaccine hesitancy: Highlighting moral obligation increases reactance in hesitant individuals. *Applied Psychology: Health and Well-Being*. [https://doi.org/10.1111/aphw.12540](https://doi.org/10.1111/aphw.12540)
 
