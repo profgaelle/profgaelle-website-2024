@@ -9,7 +9,7 @@ toc = false
 
 ## 2025
 
-Tanriover, M. D., Vallée-Tourangeau, G., Kokorin, V. A., Larina, V. N., Maamar, M., Harmouche, H., Uyaroğlu, O. A., Kutlay, D. Y., Ben Khelil, J., Anjorin, A.-A. A., Rana, M. S., Jabrayilov, J., Al Slail, F., Al Kathiry, D., Al Harthi, H., Ghazy, R. M., Gahwagi, M., Mafi, A., Koul, P., & Al Awaidy, S. (2025). The vaccination acceptance, confidence, and conviction on influenza in the Middle East, Eurasia, and Africa among healthcare providers (VACCIMENA-HCP) project 2023: Determinants of vaccination behavior. IJID Regions, 14, 100572. https://doi.org/10.1016/j.ijregi.2025.100572
+Tanriover, M. D., Vallée-Tourangeau, G., Kokorin, V. A., Larina, V. N., Maamar, M., Harmouche, H., Uyaroğlu, O. A., Kutlay, D. Y., Ben Khelil, J., Anjorin, A.-A. A., Rana, M. S., Jabrayilov, J., Al Slail, F., Al Kathiry, D., Al Harthi, H., Ghazy, R. M., Gahwagi, M., Mafi, A., Koul, P., & Al Awaidy, S. (2025). The vaccination acceptance, confidence, and conviction on influenza in the Middle East, Eurasia, and Africa among healthcare providers (VACCIMENA-HCP) project 2023: Determinants of vaccination behavior. *IJID Regions, 14*, 100572. https://doi.org/10.1016/j.ijregi.2025.100572
 
 
 Wei, Q., Van der Heijden, B., & Vallée-Tourangeau, G. (2025). Development and validation of the Chinese Teacher Sources of Stress Scale. *European Review of Applied Psychology, 75*(1), 101004. https://doi.org/10.1016/j.erap.2024.101004
