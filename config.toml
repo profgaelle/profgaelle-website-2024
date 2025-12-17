@@ -11,14 +11,14 @@ googleAnalytics = "G-8W2D7KLBJC"
 [params]
 author = "Gaëlle Vallée-Tourangeau"
 intro = "Professor of Behavioural Science"
-description = "Expert in behavioural science and decision-making research, specialising in how heuristics and cognitive biases influence real-world choices. Leading behavioural science research to promote effective, ethical and sustainable judgment, decision-making, and creative problem-solving."
+description = "My research explores creative cognition, sustainable decision-making, and behavioural change in creative, organisational and health contexts."
 authorimage = "headshot.png"
 customCSS = ["/css/custom.css"]
 
 ## Site Meta Settings
 [params.meta]
-description = "Behavioural science researcher exploring how cognitive biases and choice architecture shape decision-making in real-world contexts. Expert in applied experimental psychology and behavioural interventions."
-keywords = "behavioural science, decision making, cognitive biases, heuristics, choice architecture, experimental psychology, behavioural interventions, applied psychology, behavioural economics, decision research"
+description = "Behavioural science researcher exploring how cognitive biases and choice architecture shape creativity and decision-making in real-world contexts. Expert in applied experimental psychology and behavioural interventions."
+keywords = "behavioural science, creative cognition, creative sciences, decision making, cognitive biases, heuristics, choice architecture, experimental psychology, behavioural interventions, applied psychology, behavioural economics, decision research"
 
 ## Social Accounts
 [params.social]
