@@ -55,8 +55,8 @@ url = "bio/"
 
 [[menu.main]]
 name = "Behavioural Science & Creative Insights (BeSCI) research group"
-identifier = "bio"
-weight = 100
+identifier = "besci-group"
+weight = 110
 url = "https://besci.profgaelle.com"
 
 
