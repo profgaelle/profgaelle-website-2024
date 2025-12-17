@@ -28,11 +28,11 @@ email = "g.vallee-tourangeau@kingston.ac.uk?subject=[profgaelle.com]%20"
 googlescholar = "G3o05zgAAAAJ"
 orcid = "0000-0003-1080-4443"
 bluesky = "profgaelle.bsky.social"
-instagram = "ellea.artist"
+instagram = "gaelle.artist"
 
 ## Extras
 [params.extra]
-copyright = "© 2024. [Gaëlle Vallée-Tourangeau](https://profgaelle.com). [CC BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/4.0/)."
+copyright = "© 2024-2025. [Gaëlle Vallée-Tourangeau](https://profgaelle.com). [CC BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/4.0/)."
 poweredby = false
 highlightjs = true
 
@@ -52,6 +52,13 @@ name = "Bio"
 identifier = "bio"
 weight = 100
 url = "bio/"
+
+[[menu.main]]
+name = "Behavioural Science & Creative Insights (BeSCI) research group"
+identifier = "bio"
+weight = 100
+url = "https://besci.profgaelle.com"
+
 
 [[menu.main]]
 name = "Publications"

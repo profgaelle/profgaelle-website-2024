@@ -3,7 +3,7 @@ date = '2024-10-27T13:19:22Z'
 draft = false
 title = 'Bio'
 +++
- am Professor of Behavioural Science at Kingston Business School, where I led research and enterprise strategy (2019–2025) and served as Town House Fellow (2023–2024). I am a member of the Behaviour, Business and Policy Institute at Kingston University and I lead the BeSCi research group, exploring behavioural insights, decision-making, and creative cognition.
+ I am Professor of Behavioural Science at Kingston Business School, where I led research and enterprise strategy (2019–2025) and served as Town House Fellow (2023–2024). I am a member of the Behaviour, Business and Policy Institute at Kingston University and I lead the BeSCi research group, exploring behavioural insights, decision-making, and creative cognition.
 
 My research investigates how people make decisions, solve problems, and regulate motivation—especially in creative, organisational, sustainability, and healthcare contexts. I’ve published over 60 peer-reviewed articles and received funding from the Wellcome Trust, Leverhulme Trust, Sanofi-Pasteur, and others.
 
