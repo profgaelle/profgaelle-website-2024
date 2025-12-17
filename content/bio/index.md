@@ -3,23 +3,19 @@ date = '2024-10-27T13:19:22Z'
 draft = false
 title = 'Bio'
 +++
-Gaëlle Vallée-Tourangeau is a professor of Behavioural Science and Director of Research and Enterprise at Kingston Business School. She studied at Paris Ouest University (1998, MSc Social Psychology) and the University of Hertfordshire (2004, PhD) then was a lecturer at the Leeds University Business School (2001-2004) and the University of Toulouse (2004-2009) before joining Kingston University in 2009.
+ am Professor of Behavioural Science at Kingston Business School, where I led research and enterprise strategy (2019–2025) and served as Town House Fellow (2023–2024). I am a member of the Behaviour, Business and Policy Institute at Kingston University and I lead the BeSCi research group, exploring behavioural insights, decision-making, and creative cognition.
 
-Her expertise lies in behavioural sciences and her research builds upon scientific reasoning and empirical evidence to explain what motivates human behaviour. She studies people’s choices and decisions as well as how to change behaviour. Her work contributes to better understand what influences decisions and creativity such as information design, the artefacts available in our environment, as well as individual motivational regulation needs such as the need for autonomy.
+My research investigates how people make decisions, solve problems, and regulate motivation—especially in creative, organisational, sustainability, and healthcare contexts. I’ve published over 60 peer-reviewed articles and received funding from the Wellcome Trust, Leverhulme Trust, Sanofi-Pasteur, and others.
 
-She has applied behavioural sciences to answer questions such as what motivates healthcare workers to decide to get (or not to get) vaccinated, what motivates knowledge workers to decide to support an application for funding, or how can we boost creative and insightful solutions to problems. She is co-director of the [Behavioural Research Analytics in Neurotechnological Systems (BRAINS) Lab](https://www.kingston.ac.uk/faculties/faculty-of-business-and-social-sciences/research/foresight-creativity/the-brains-lab/), a nationally leading research and innovation facility that pioneers the convergence of behavioural sciences, user experience research and next-generation technologies.
-
-The public outputs from her research includes over 60 journal articles, book chapters, and conference proceedings. Her work has been published in leading psychology journals such as the Journal of Experimental Psychology – Applied, Health Psychology, Psychology and Health, the Journal of Experimental Psychology - General, Psychological Science, Cognition, Memory & Cognition and Acta Psychologica, among others. Her research has been funded by the Fyssen foundation (2004), the French National Research Agency (2008), the Leverhulme Trust (2011), Sanofi-Pasteur (2013), and the Wellcome Trust (2019).
+I’ve served as President of the European Association for Decision Making and contribute as Associate Editor for the European Review of Applied Psychology and currently serving as guest editor for AI & Society. My work has been featured in The New York Times, BMJ, France Inter, and LSE Business Review, and I regularly consult for organisations including  PromoVeritas, Quadrangle, and Sanofi-Pasteur.
 
 <div style="display: flex; gap: 2rem; margin: 2rem 0;">
     <div style="flex: 1;">
         <h3>Research Interests</h3>
         <ul>
-            <li>Heuristics, biases and choice architecture in real-world contexts</li>
-            <li>Applied experimental psychology and behavioural decision-making</li>
-            <li>Neural bases of aesthetic experience and arts-based wellbeing</li>
-            <li>Data ethics, policy and law for AI</li>
-            <li>AI-human interaction and collaborative intelligence</il>
+            <li>Creative Cognition & Human-AI Collaboration</li>
+            <li>Decision-Making & Behavioural Science</li>
+            <li>Organisational Creativity & Behaviour Change</li>
         </ul>
     </div>
     <div style="flex: 1;">
