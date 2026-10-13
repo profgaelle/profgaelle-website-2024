@@ -1,0 +1,13 @@
+# Navigation for profgaelle.com
+# Teaching, Consultancy and Zettelkasten are parked in _parked/ for now.
+
+main:
+  - name: Bio
+    url: bio
+    weight: 10
+  - name: Publications
+    url: 'https://besci.profgaelle.com/publication/'
+    weight: 20
+  - name: BeSCI Research Group
+    url: 'https://besci.profgaelle.com'
+    weight: 60

@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching and Learning Resources | Gaëlle Vallée-Tourangeau</title>
+    <link>http://localhost:1313/knowledge-exchange/</link>
+      <atom:link href="http://localhost:1313/knowledge-exchange/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teaching and Learning Resources</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu11734318148517933569.png</url>
+      <title>Teaching and Learning Resources</title>
+      <link>http://localhost:1313/knowledge-exchange/</link>
+    </image>
+    
+    <item>
+      <title>PhD Timeline in the BRAINS Lab: From MPhil to PhD Completion</title>
+      <link>http://localhost:1313/knowledge-exchange/phd-timeline/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/knowledge-exchange/phd-timeline/</guid>
+      <description>&lt;div class=&#34;timeline-container&#34;&gt;
+&lt;div class=&#34;transfer-requirements&#34;&gt;
+&lt;h2 id=&#34;mphil-to-phd-transfer-requirements&#34;&gt;MPhil to PhD Transfer Requirements&lt;/h2&gt;
+&lt;div class=&#34;transfer-content&#34;&gt;
+Transfer document (5000-8000 words) should include:
+&lt;ul&gt;
+&lt;li&gt;Completed literature review for Paper 1&lt;/li&gt;
+&lt;li&gt;Results from first two experiments&lt;/li&gt;
+&lt;li&gt;Pre-registration protocols and outcomes&lt;/li&gt;
+&lt;li&gt;Theoretical framework development&lt;/li&gt;
+&lt;li&gt;Detailed methodology for Paper 2&lt;/li&gt;
+&lt;li&gt;Publication strategy and timeline&lt;/li&gt;
+&lt;li&gt;Research training portfolio&lt;/li&gt;
+&lt;li&gt;Thesis structure with paper integration plan&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 class=&#34;phase-title&#34; id=&#34;year-1-mphil-phase&#34;&gt;Year 1: MPhil Phase&lt;/h2&gt;
+&lt;div class=&#34;quarter-grid&#34;&gt;
+&lt;div class=&#34;quarter&#34;&gt;
+&lt;h4 id=&#34;q1-foundation-months-1-3&#34;&gt;Q1: Foundation (Months 1-3)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Departmental and laboratory induction&lt;/li&gt;
+&lt;li&gt;Systematic literature review for Paper 1&lt;/li&gt;
+&lt;li&gt;Advanced statistics training&lt;/li&gt;
+&lt;li&gt;Design first experiment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&#34;quarter&#34;&gt;
+&lt;h4 id=&#34;q2-paper-1-launch-months-4-6&#34;&gt;Q2: Paper 1 Launch (Months 4-6)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Complete pre-registration for Exp 1 &amp;amp; 2&lt;/li&gt;
+&lt;li&gt;Programme experimental paradigms&lt;/li&gt;
+&lt;li&gt;Ethics application submission&lt;/li&gt;
+&lt;li&gt;Begin first experiment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&#34;quarter&#34;&gt;
+&lt;h4 id=&#34;q3-paper-1-development-months-7-9&#34;&gt;Q3: Paper 1 Development (Months 7-9)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Complete first experiment&lt;/li&gt;
+&lt;li&gt;Analysis and methods refinement&lt;/li&gt;
+&lt;li&gt;Begin second experiment&lt;/li&gt;
+&lt;li&gt;Draft introduction for Paper 1&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&#34;quarter&#34;&gt;
+&lt;h4 id=&#34;q4-transfer-preparation-months-10-12&#34;&gt;Q4: Transfer Preparation (Months 10-12)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Complete second experiment&lt;/li&gt;
+&lt;li&gt;Write Paper 1 methods &amp;amp; results&lt;/li&gt;
+&lt;li&gt;Begin transfer document&lt;/li&gt;
+&lt;li&gt;Literature review for Paper 2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 class=&#34;phase-title&#34; id=&#34;year-2-main-research-phase&#34;&gt;Year 2: Main Research Phase&lt;/h2&gt;
+&lt;div class=&#34;quarter-grid&#34;&gt;
+&lt;div class=&#34;quarter highlight&#34;&gt;
+&lt;h4 id=&#34;q1-transfer-period-months-13-15&#34;&gt;Q1: Transfer Period (Months 13-15)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Submit transfer document&lt;/li&gt;
+&lt;li&gt;MPhil to PhD viva&lt;/li&gt;
+&lt;li&gt;Pre-register Paper 2 experiments&lt;/li&gt;
+&lt;li&gt;Begin third experiment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&#34;quarter&#34;&gt;
+&lt;h4 id=&#34;q2-paper-2-development-months-16-18&#34;&gt;Q2: Paper 2 Development (Months 16-18)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Submit Paper 1 to journal&lt;/li&gt;
+&lt;li&gt;Complete third experiment&lt;/li&gt;
+&lt;li&gt;Begin fourth experiment&lt;/li&gt;
+&lt;li&gt;Present at departmental seminar&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&#34;quarter&#34;&gt;
+&lt;h4 id=&#34;q3-paper-2-completion-months-19-21&#34;&gt;Q3: Paper 2 Completion (Months 19-21)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Complete fourth experiment&lt;/li&gt;
+&lt;li&gt;Write Paper 2 manuscript&lt;/li&gt;
+&lt;li&gt;Literature review for Paper 3&lt;/li&gt;
+&lt;li&gt;National conference presentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&#34;quarter&#34;&gt;
+&lt;h4 id=&#34;q4-paper-3-initiation-months-22-24&#34;&gt;Q4: Paper 3 Initiation (Months 22-24)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Submit Paper 2 to journal&lt;/li&gt;
+&lt;li&gt;Pre-register final experiments&lt;/li&gt;
+&lt;li&gt;Begin fifth experiment&lt;/li&gt;
+&lt;li&gt;Draft thesis introduction&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 class=&#34;phase-title&#34; id=&#34;year-3-completion-phase&#34;&gt;Year 3: Completion Phase&lt;/h2&gt;
+&lt;div class=&#34;quarter-grid&#34;&gt;
+&lt;div class=&#34;quarter&#34;&gt;
+&lt;h4 id=&#34;q1-final-experiments-months-25-27&#34;&gt;Q1: Final Experiments (Months 25-27)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Complete fifth experiment&lt;/li&gt;
+&lt;li&gt;Run sixth experiment&lt;/li&gt;
+&lt;li&gt;Revise Paper 1 (if required)&lt;/li&gt;
+&lt;li&gt;International conference presentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&#34;quarter&#34;&gt;
+&lt;h4 id=&#34;q2-paper-3-writing-months-28-30&#34;&gt;Q2: Paper 3 Writing (Months 28-30)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Complete data analysis&lt;/li&gt;
+&lt;li&gt;Write Paper 3 manuscript&lt;/li&gt;
+&lt;li&gt;Submit Paper 3 to journal&lt;/li&gt;
+&lt;li&gt;Begin thesis summary chapter&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&#34;quarter&#34;&gt;
+&lt;h4 id=&#34;q3-thesis-assembly-months-31-33&#34;&gt;Q3: Thesis Assembly (Months 31-33)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Finalise thesis introduction&lt;/li&gt;
+&lt;li&gt;Integrate published/submitted papers&lt;/li&gt;
+&lt;li&gt;Write discussion chapter&lt;/li&gt;
+&lt;li&gt;Internal review process&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&#34;quarter&#34;&gt;
+&lt;h4 id=&#34;q4-submission-months-34-36&#34;&gt;Q4: Submission (Months 34-36)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Final thesis assembly&lt;/li&gt;
+&lt;li&gt;Address reviewer comments on papers&lt;/li&gt;
+&lt;li&gt;Thesis submission&lt;/li&gt;
+&lt;li&gt;Viva preparation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 class=&#34;requirements-title&#34; id=&#34;continuous-requirements&#34;&gt;Continuous Requirements&lt;/h2&gt;
+&lt;div class=&#34;continuous-grid&#34;&gt;
+&lt;div class=&#34;requirement&#34;&gt;
+&lt;h4 id=&#34;publication-management&#34;&gt;Publication Management&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Paper submissions and revisions&lt;/li&gt;
+&lt;li&gt;Pre-registration maintenance&lt;/li&gt;
+&lt;li&gt;Open science compliance&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&#34;requirement&#34;&gt;
+&lt;h4 id=&#34;research-development&#34;&gt;Research Development&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Advanced methods training&lt;/li&gt;
+&lt;li&gt;Reproducible science workshops&lt;/li&gt;
+&lt;li&gt;Academic writing courses&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&#34;requirement&#34;&gt;
+&lt;h4 id=&#34;academic-progress&#34;&gt;Academic Progress&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Monthly supervision meetings&lt;/li&gt;
+&lt;li&gt;Research group presentations&lt;/li&gt;
+&lt;li&gt;Ethics documentation updates&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Circular Strategies Workshop: Redesigning Products for Sustainability</title>
+      <link>http://localhost:1313/knowledge-exchange/circular-design-workshop/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/knowledge-exchange/circular-design-workshop/</guid>
+      <description>&lt;h2 id=&#34;workshop-overview&#34;&gt;Workshop Overview&lt;/h2&gt;
+&lt;p&gt;This interactive workshop introduces participants to circular strategies through hands-on activities. Participants will explore alternative ways to meet user needs while creating more sustainable product designs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 40 minutes&lt;/p&gt;
+&lt;h2 id=&#34;learning-outcomes&#34;&gt;Learning Outcomes&lt;/h2&gt;
+&lt;p&gt;By the end of this workshop, participants will be able to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Understand the basics of circular strategies in product design&lt;/li&gt;
+&lt;li&gt;Identify functional and emotional needs that products serve&lt;/li&gt;
+&lt;li&gt;Apply circular strategies to redesign everyday products&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;required-materials&#34;&gt;Required Materials&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;Research/BeSci-RG-Admin/Websites/profgaelle-website-2024/content/knowledge-exchange/circular-design-workshop/materials/profgaelle-circular-economy-slides.pdf&#34;&gt;Workshop slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://emf.thirdlight.com/file/24/LfW5VnNLf2CPa..LfjS1LB0VyuH/Circular%20Strategies%20Cards%20SET6.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Circular Strategy Cards&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;Research/BeSci-RG-Admin/Websites/profgaelle-website-2024/content/knowledge-exchange/circular-design-workshop/materials/profgaelle-circular-economy-worksheet.pdf&#34;&gt;Worksheets for recording needs analysis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.menti.com/aluyc1ufdb2o&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mentimeter slide for sharing ideas&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;workshop-approach&#34;&gt;Workshop Approach&lt;/h2&gt;
+&lt;p&gt;This workshop combines practical exercises with proven methodologies, emphasising:&lt;/p&gt;
+&lt;h3 id=&#34;1-user-centered-design&#34;&gt;1. User-Centered Design&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Deep diving into functional needs (practical, utilitarian aspects)&lt;/li&gt;
+&lt;li&gt;Exploring emotional needs (psychological benefits and user satisfaction)&lt;/li&gt;
+&lt;li&gt;Emphasizing empathy and open-minded thinking&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-collaborative-innovation&#34;&gt;2. Collaborative Innovation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Working in diverse teams&lt;/li&gt;
+&lt;li&gt;Focusing on creative brainstorming&lt;/li&gt;
+&lt;li&gt;Sharing and pitching solutions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-hands-on-experience&#34;&gt;3. Hands-On Experience&lt;/h3&gt;
+&lt;p&gt;Participants work on redesigning real products from various categories:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fashion (Office Chair Blanket)&lt;/li&gt;
+&lt;li&gt;Food Packaging (Single-use dessert container)&lt;/li&gt;
+&lt;li&gt;Cosmetics (Toiletry bag)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;workshop-structure&#34;&gt;Workshop Structure&lt;/h2&gt;
+&lt;h3 id=&#34;1-introduction--group-formation-5-minutes&#34;&gt;1. Introduction &amp;amp; Group Formation (5 minutes)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Welcome and overview&lt;/li&gt;
+&lt;li&gt;Form groups of 3-4 participants&lt;/li&gt;
+&lt;li&gt;Select products for redesign&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-identifying-needs-10-minutes&#34;&gt;2. Identifying Needs (10 minutes)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Discuss functional needs&lt;/li&gt;
+&lt;li&gt;Explore emotional needs&lt;/li&gt;
+&lt;li&gt;Document findings&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-hands-on-redesign-15-minutes&#34;&gt;3. Hands-On Redesign (15 minutes)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Review circular strategy cards&lt;/li&gt;
+&lt;li&gt;Brainstorm redesign ideas&lt;/li&gt;
+&lt;li&gt;Apply circular strategies&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;4-share--wrap-up-10-minutes&#34;&gt;4. Share &amp;amp; Wrap-up (10 minutes)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Present group ideas&lt;/li&gt;
+&lt;li&gt;Discuss key takeaways&lt;/li&gt;
+&lt;li&gt;Share additional resources&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;facilitation-tips&#34;&gt;Facilitation Tips&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Encourage wild ideas during brainstorming&lt;/li&gt;
+&lt;li&gt;Use &amp;ldquo;yes, and&amp;hellip;&amp;rdquo; to build on ideas&lt;/li&gt;
+&lt;li&gt;Keep groups focused on user needs&lt;/li&gt;
+&lt;li&gt;Balance creativity with practicality&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;original-framework-and-adaptations&#34;&gt;Original Framework and Adaptations&lt;/h2&gt;
+&lt;p&gt;This workshop builds upon established circular economy principles while introducing unique elements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Structured brainstorming approach combining functional and emotional need analysis&lt;/li&gt;
+&lt;li&gt;Time-boxed exercises promoting focused ideation&lt;/li&gt;
+&lt;li&gt;Integration of collaborative design thinking methods&lt;/li&gt;
+&lt;li&gt;Emphasis on both user experience and environmental impact&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;attribution-and-resources&#34;&gt;Attribution and Resources&lt;/h2&gt;
+&lt;p&gt;This workshop incorporates materials and concepts from:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ellen MacArthur Foundation&amp;rsquo;s Circular Design Guide&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;additional-resources&#34;&gt;Additional Resources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ellenmacarthurfoundation.org/resources/design/circular-design-guide&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Circular Design Guide&lt;/a&gt; (Ellen Macarthur Foundation)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.peterjthomson.com/2013/11/value-proposition-canvas/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Value Proposition Canvas&lt;/a&gt; (Peter Thompson)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://circulareconomy.europa.eu/platform/sites/default/files/circular_by_design_-_products_in_the_circular_economy.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Circular by Design Report&lt;/a&gt; (European Circular Economy Stakeholder Platform)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ukgbc.org/our-work/topics/circular-economy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Circular Economy Resources&lt;/a&gt; (UK Green Building Council - UKGBC)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Workshop developed by Prof. Gaëlle Vallée-Tourangeau for the event THINK GREEN: Developing Kingston&amp;rsquo;s Circular Economy, 18 November 2024.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

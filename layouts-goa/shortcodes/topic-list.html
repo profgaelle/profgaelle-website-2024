@@ -1,0 +1,27 @@
+{{ $zettelPages := where .Site.RegularPages "File.Dir" "zettelkasten/notes/" }}
+{{ $tags := dict }}
+
+{{ range $zettelPages }}
+  {{ range .Params.tags }}
+    {{ $tag := . }}
+    {{ $pages := where $zettelPages "Params.tags" "intersect" (slice $tag) }}
+    {{ $tags = merge $tags (dict $tag $pages) }}
+  {{ end }}
+{{ end }}
+
+<ul>
+  {{ range $name, $pages := $tags }}
+    <li>
+      <a href="/tags/{{ $name | urlize }}">{{ $name }}</a>
+      <span class="count">({{ len $pages }})</span>
+      <ul class="recent">
+        {{ range first 3 ($pages.ByDate.Reverse) }}
+          <li>
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            <span class="date">({{ .Date.Format "2 Jan 2006" }})</span>
+          </li>
+        {{ end }}
+      </ul>
+    </li>
+  {{ end }}
+</ul>
