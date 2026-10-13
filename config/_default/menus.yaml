@@ -6,7 +6,7 @@ main:
     url: bio
     weight: 10
   - name: Publications
-    url: 'https://besci.profgaelle.com/publication/'
+    url: 'https://besci.profgaelle.com/author/gaelle-vallee-tourangeau/'
     weight: 20
   - name: BeSCI Research Group
     url: 'https://besci.profgaelle.com'
