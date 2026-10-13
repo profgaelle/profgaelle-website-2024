@@ -247,3 +247,18 @@ a:hover {
   border-color: #e5e5e5;
   box-shadow: none;
 }
+/* ========== HOME PAGE CONTACT ICONS ========== */
+
+.hero-social {
+  font-size: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.hero-social a {
+  margin-right: 1rem;
+  color: var(--charcoal);
+}
+
+.hero-social a:hover {
+  color: var(--coral-pink);
+}

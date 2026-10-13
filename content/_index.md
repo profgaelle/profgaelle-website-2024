@@ -20,5 +20,7 @@ sections:
 
         I lead the [Behavioural Science & Creative Insights (BeSCI) research group](https://besci.profgaelle.com), teach behavioural science and supervise doctoral research, and work with organisations through knowledge exchange and consultancy.
 
+        <p class="hero-social"><a href="https://scholar.google.com/citations?user=G3o05zgAAAAJ" aria-label="Google Scholar" title="Google Scholar"><i class="ai ai-google-scholar"></i></a> <a href="https://orcid.org/0000-0003-1080-4443" aria-label="ORCID" title="ORCID"><i class="ai ai-orcid"></i></a> <a href="https://linkedin.com/in/profgaelle" aria-label="LinkedIn" title="LinkedIn"><i class="fab fa-linkedin"></i></a> <a href="https://www.instagram.com/prof.gaelle/" aria-label="Instagram" title="Instagram"><i class="fab fa-instagram"></i></a> <a href="mailto:g.vallee-tourangeau@kingston.ac.uk" aria-label="Email" title="Email"><i class="fas fa-envelope"></i></a></p>
+
 
 ---
