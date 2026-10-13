@@ -19,9 +19,9 @@ By the end of this workshop, participants will be able to:
 - Apply circular strategies to redesign everyday products
 
 ## Required Materials
-- [Workshop slides](materials/profgaelle-circular-economy-slides.pdf)
+- [Workshop slides](Research/BeSci-RG-Admin/Websites/profgaelle-website-2024/content/teaching/circular-design-workshop/materials/profgaelle-circular-economy-slides.pdf)
 - [Circular Strategy Cards](https://emf.thirdlight.com/file/24/LfW5VnNLf2CPa..LfjS1LB0VyuH/Circular%20Strategies%20Cards%20SET6.pdf)
-- [Worksheets for recording needs analysis](materials/profgaelle-circular-economy-worksheet.pdf)
+- [Worksheets for recording needs analysis](Research/BeSci-RG-Admin/Websites/profgaelle-website-2024/content/teaching/circular-design-workshop/materials/profgaelle-circular-economy-worksheet.pdf)
 - [Mentimeter slide for sharing ideas](https://www.menti.com/aluyc1ufdb2o)
 
 ## Workshop Approach
